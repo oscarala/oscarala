@@ -29,6 +29,3 @@ I am a developer who thrives on creating smart, efficient systems. While I am pe
   <img src="https://skillicons.dev/icons?i=spring,react,nextjs,django,flutter,git,docker" />
 </p>
 
-###  GitHub Analytics
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oscarala&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
