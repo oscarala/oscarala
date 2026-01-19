@@ -12,7 +12,7 @@ I am a developer who thrives on creating smart, efficient systems. While I am pe
 
 * **Education:** Specialized in Software Development at HTL.
 * **Freelance:** Owner of [oalalabs.com](https://oalalabs.com) – building projects on the side.
-* **Contact:** [schwaiger.emilio@gmail.com](mailto:schwaiger.emilio@gmail.com)
+* **Contact:** [oscarapager@gmail.com](mailto:schwaiger.emilio@gmail.com)
 * **Fun fact:** I hate js.
 
 ---
@@ -20,7 +20,6 @@ I am a developer who thrives on creating smart, efficient systems. While I am pe
 ###  My Arsenal
 
 | Category | Tools & Technologies |
-| :--- | :--- |
 **Languages I Speak**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,c,cs,js,ts,html,css" />
