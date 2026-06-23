@@ -1,5 +1,4 @@
 # Hi , I'm Oscar
----
 ### About Me
 I am a developer who thrives on creating smart, efficient systems.
 * **Education:** Specialized in Software Development at HTL.
