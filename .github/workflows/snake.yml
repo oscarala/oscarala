@@ -1,0 +1,40 @@
+name: Generate Snake
+
+on:
+  # Führt den Workflow alle 12 Stunden aus
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Ermöglicht es, den Workflow jederzeit manuell zu starten
+  workflow_dispatch:
+  
+  # Führt den Workflow bei jedem Push auf den main-Branch aus
+  push:
+    branches:
+    - main
+
+jobs:
+  generate:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    
+    steps:
+      # Generiert das Snake-Spiel aus dem GitHub-Beitragshistorie-Grid
+      - name: generate-snake-game-from-github-contribution-grid
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          
+      # Lädt die generierten SVG-Dateien auf einen separaten Branch namens "output" hoch
+      - name: push github-contribution-grid-snake.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
