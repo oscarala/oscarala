@@ -13,7 +13,7 @@ I am a developer who thrives on creating smart, efficient systems.
 
 **Frameworks & Core Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,flutter,git,docker,nodejs,nestjs,express,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nextjs,flutter,git,docker,nodejs,nestjs,express,bootstrap,tailwind,dotnet" />
 </p>
 
 **Databases**
@@ -23,7 +23,7 @@ I am a developer who thrives on creating smart, efficient systems.
 
 **Cloud & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,dotnet,linux,grafana" />
+  <img src="https://skillicons.dev/icons?i=gcp,linux,grafana" />
 </p>
 
 **Design Tools**
