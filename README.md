@@ -7,7 +7,7 @@ I am a developer who thrives on creating smart, efficient systems.
 ###  My Arsenal
 **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cs,js,ts,html,css,go" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cs,js,ts,html,css,go,dart" />
 </p>
 
 **Frameworks & Core Tools**
