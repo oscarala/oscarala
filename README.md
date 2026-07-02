@@ -22,7 +22,7 @@ I am a developer who thrives on creating smart, efficient systems.
 
 **Cloud & DevOps**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=gcp,linux,grafana" />
+  <img src="https://skillicons.dev/icons?i=gcp,linux,grafana,supabase" />
 </p>
 
 **Design Tools**
